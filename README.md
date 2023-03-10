@@ -7,3 +7,7 @@ to ringserver in order to make it compatible with FDSN WS clients such as Swarm.
 Under the hood, gerbera uses DataLink to communicate with ringserver.
 
 Configuration is done in the gerbera.properties file.
+
+to run just execute:
+
+java -jar gerbera.jar
